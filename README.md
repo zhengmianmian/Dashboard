@@ -2,6 +2,10 @@
 
 This is my first practice of NextJS.
 
+## Tech stack
+
+NextJS + PostgreSQL
+
 ## Run the project
 
 ### Install correct dependencies
