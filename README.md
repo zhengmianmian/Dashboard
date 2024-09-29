@@ -1,6 +1,6 @@
 # Dashboard
 
-This is my first practice of NextJS.
+This is my first practice of NextJS. Done by following the guide.
 
 ## Tech stack
 
