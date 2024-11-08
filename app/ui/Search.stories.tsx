@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from "@storybook/react";
-import Search from "../app/ui/search";
+import Search from "./search";
 /**
  * If your story uses components in the app directory and they are importing modules from next/navigation,
  * you have to tell Storybook to use the correct mocked router context by setting the nextjs.appDirectory parameter to true
